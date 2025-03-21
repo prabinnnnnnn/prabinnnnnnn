@@ -113,11 +113,6 @@ I am a full-stack developer specializing in the MERN stack. With expertise in bu
 - Testing (Jest, React Testing Library)
 - CI/CD pipelines
 
-## Education & Certifications
-
-- [Degree/Certification Name] - [Institution] - [Year]
-- [Degree/Certification Name] - [Institution] - [Year]
-
 ## Contact Information
 
 <div align="center">
@@ -134,9 +129,3 @@ I am a full-stack developer specializing in the MERN stack. With expertise in bu
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-
-## Installation Instructions
-
-For those who want to run my projects locally:
-
-1. Clone the repository:
