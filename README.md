@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </div>
 
+<div align="center">
+
 ## Overview
 
 This repository contains my portfolio as a MERN stack developer, showcasing various projects and skills in MongoDB, Express.js, React, and Node.js development.
