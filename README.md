@@ -1,3 +1,4 @@
+<div align="center">
 # MERN Developer Portfolio
 
 <div align="center">
@@ -7,7 +8,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </div>
 
-<div align="center">
 
 ## Overview
 
@@ -105,15 +105,15 @@ I am a full-stack developer specializing in the MERN stack. With expertise in bu
 
 ## Skills
 
-- Full-stack JavaScript development
-- Database design and management
-- RESTful API development
-- Frontend development with React
-- State management (Redux, Context API)
-- Authentication and authorization
-- Responsive web design
-- Testing (Jest, React Testing Library)
-- CI/CD pipelines
+ Full-stack JavaScript development
+ Database design and management
+ RESTful API development
+ Frontend development with React
+ State management (Redux, Context API)
+ Authentication and authorization
+ Responsive web design
+ Testing (Jest, React Testing Library)
+ CI/CD pipelines
 
 ## Contact Information
 
