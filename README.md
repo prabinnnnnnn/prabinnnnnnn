@@ -12,13 +12,14 @@ I'm a passionate **MERN Stack Developer** specializing in building modern web ap
 - 🌱 I'm currently learning **GraphQL & AWS**
 - 👯 I'm looking to collaborate on **MERN Stack Projects**
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 📫 How to reach me: **prabin@example.com**
+- 📫 How to reach me: **mprabintamang@example.com**
 - ⚡ Fun fact: **I debug with console.log and never remove them**
 
 ## 🛠️ Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,16 +44,16 @@ I'm a passionate **MERN Stack Developer** specializing in building modern web ap
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabin-dev&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabinnnnnnn&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabin-dev&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinnnnnnn&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🏆 Featured Projects
 
-### 🌐 [MERN Social Network](https://github.com/prabin-dev/mern-social)
+### 🌐 [MERN Social Network](https://github.com/prabinnnnnnn/mern-social)
 A full-stack social platform with real-time messaging, post sharing, and user interactions.
 
 **Tech Stack:** React, Node.js, Express, MongoDB, Socket.io
@@ -61,7 +62,7 @@ A full-stack social platform with real-time messaging, post sharing, and user in
 - 🍴 14 forks
 - 🔗 [Live Demo](https://mern-social-demo.vercel.app)
 
-### 📊 [E-Commerce Dashboard](https://github.com/prabin-dev/ecommerce-dashboard)
+### 📊 [E-Commerce Dashboard](https://github.com/prabinnnnnnn/ecommerce-dashboard)
 Admin dashboard with analytics, inventory management, and order processing capabilities.
 
 **Tech Stack:** MERN Stack, Redux, Chart.js, Material UI
@@ -70,7 +71,7 @@ Admin dashboard with analytics, inventory management, and order processing capab
 - 🍴 10 forks
 - 🔗 [Live Demo](https://ecommerce-dashboard-demo.vercel.app)
 
-### 📝 [Task Manager API](https://github.com/prabin-dev/task-manager-api)
+### 📝 [Task Manager API](https://github.com/prabinnnnnnn/task-manager-api)
 RESTful API for task management with user authentication and task organization features.
 
 **Tech Stack:** Node.js, Express, MongoDB, JWT Authentication
@@ -96,10 +97,10 @@ RESTful API for task management with user authentication and task organization f
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabin-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabin-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabin@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabin-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabinnnnnnn)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabinnnnnnn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mptabintamang@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prabinmoktan.com.np)
 
 </div>
 
@@ -120,35 +121,4 @@ RESTful API for task management with user authentication and task organization f
 *Feel free to reach out if you want to collaborate on any MERN stack project or discuss web development!*
 
 </div>
-```
-
-I've updated the personal README with your details as a MERN developer named Prabin. Here's what I've customized:
-
-## 🎨 **UI Updates:**
-- Changed the color scheme to use teal/cyan/emerald tones that better represent the MERN stack
-- Updated the avatar fallback to show "P" for Prabin
-- Reorganized the skill badges to highlight MongoDB, Express, React, and Node.js
-- Added MERN-specific project cards with relevant technologies
-
-## 📝 **Content Updates:**
-- Updated the name to "Prabin" throughout the document
-- Changed the professional title to "MERN Stack Developer"
-- Rewrote the bio to focus on your MERN stack expertise
-- Updated the tech stack to emphasize MERN technologies:
-  - MongoDB for database
-  - Express.js for backend framework
-  - React for frontend
-  - Node.js for server-side JavaScript
-- Added relevant MERN stack projects:
-  - MERN Social Network
-  - E-Commerce Dashboard
-  - Task Manager API
-
-## 🚀 **MERN-Specific Features:**
-- Highlighted your expertise with the complete MERN stack
-- Added appropriate GitHub username placeholders (prabin-dev)
-- Included relevant technologies like Redux, JWT, and Socket.io
-- Updated the GitHub stats to reflect a MERN developer's profile
-
-You can further customize this README by adding your actual GitHub username, project links, and contact information. The UI preview shows how your profile would look as a web page, while the markdown file is ready to use as your GitHub README!
 
