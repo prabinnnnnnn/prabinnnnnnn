@@ -51,35 +51,6 @@ I'm a passionate **MERN Stack Developer** specializing in building modern web ap
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabinnnnnnn&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 Featured Projects
-
-### 🌐 [MERN Social Network](https://github.com/prabinnnnnnn/mern-social)
-A full-stack social platform with real-time messaging, post sharing, and user interactions.
-
-**Tech Stack:** React, Node.js, Express, MongoDB, Socket.io
-
-- ⭐ 35 stars
-- 🍴 14 forks
-- 🔗 [Live Demo](https://mern-social-demo.vercel.app)
-
-### 📊 [E-Commerce Dashboard](https://github.com/prabinnnnnnn/ecommerce-dashboard)
-Admin dashboard with analytics, inventory management, and order processing capabilities.
-
-**Tech Stack:** MERN Stack, Redux, Chart.js, Material UI
-
-- ⭐ 28 stars
-- 🍴 10 forks
-- 🔗 [Live Demo](https://ecommerce-dashboard-demo.vercel.app)
-
-### 📝 [Task Manager API](https://github.com/prabinnnnnnn/task-manager-api)
-RESTful API for task management with user authentication and task organization features.
-
-**Tech Stack:** Node.js, Express, MongoDB, JWT Authentication
-
-- ⭐ 22 stars
-- 🍴 8 forks
-- 🔗 [API Documentation](https://task-manager-api-docs.vercel.app)
-
 ## 📈 Contribution Graph
 
 <div align="center">
