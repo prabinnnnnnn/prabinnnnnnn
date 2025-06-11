@@ -12,7 +12,7 @@ I'm a passionate **MERN Stack Developer** specializing in building modern web ap
 - 🌱 I'm currently learning **GraphQL & AWS**
 - 👯 I'm looking to collaborate on **MERN Stack Projects**
 - 💬 Ask me about **React, Node.js, MongoDB, Express**
-- 📫 How to reach me: **mprabintamang@example.com**
+- 📫 How to reach me: **mprabintamang@gmail.com**
 - ⚡ Fun fact: **I debug with console.log and never remove them**
 
 ## 🛠️ Tech Stack
